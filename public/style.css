@@ -64,14 +64,16 @@ h1 {
 
 table {
     width: 50%; 
-    margin: auto;
-    text-align: center;
+    margin-left:23%; 
+    margin-right:25%;
+    
 }
 
 td {
     width: 50%; 
-    margin: auto;
-    text-align: center;
+    margin-left:23%; 
+    margin-right:25%;
+    
 }
 
 #fel {
